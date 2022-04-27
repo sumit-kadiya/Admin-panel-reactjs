@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+  height: 10vh;
+}
+.heading {
+  margin-left: 15px;
+  color: whitesmoke;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 20px;
+}
+.buttons button {
+  background: transparent;
+  color: whitesmoke;
+  font-size: 20px;
+  border: 2px solid whitesmoke;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.buttons button:hover {
+  background-color: #24243e;
+}

@@ -1,0 +1,11 @@
+.home {
+  width: 90%;
+  max-width: 50%;
+  height: 30vh;
+  padding: 3rem;
+  margin: 2rem auto;
+  text-align: center;
+}
+.home h1 {
+  color: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+}
